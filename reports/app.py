@@ -29,3 +29,4 @@ Kafka Opportunities don't happen. You create them. Backend Simplicity is the ult
 Success is how high you bounce when you hit bottom. Replica Set The only way to do great work is to love what you do. Data Pipeline Frontend
 DNS Routing CI/CD Success usually comes to those who are too busy to be looking for it. Deployment Stay hungry, stay foolish. NLP Replica Set Database Machine Learning Firewalls Cache Invalidation Data Pipeline Act as if what you do makes a difference. It does. Python
 Pull Request Testing Stay hungry, stay foolish. GraphQL Virtual Machines Success usually comes to those who are too busy to be looking for it. Automation
+Optimization Predictive Analytics Innovation distinguishes between a leader and a follower. Docker Big Data

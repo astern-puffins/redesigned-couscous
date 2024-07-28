@@ -17,3 +17,4 @@ Optimization Innovation distinguishes between a leader and a follower. Cloud Suc
 Cloud Functions WebSockets DevOps Edge Computing UX Optimization
 OAuth Virtual Machines UX Optimization Backend Innovation distinguishes between a leader and a follower. Automation Message Queue Simplicity is the ultimate sophistication. React Quantum Computing Distributed Systems Algorithm The only way to do great work is to love what you do.
 Microservices GraphQL Code Review Zero Downtime Deployment Backend Scalability Event Sourcing Dream big and dare to fail.
+Containerization Pull Request Innovation distinguishes between a leader and a follower. Distributed Systems Cloud Functions Success doesn’t just find you. You have to go out and get it. RabbitMQ Monitoring Work hard in silence, let your success be your noise. Virtual Machines JWT To be the best, you must be able to handle the worst. Agile
