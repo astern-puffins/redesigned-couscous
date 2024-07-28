@@ -27,3 +27,4 @@ JWT Success usually comes to those who are too busy to be looking for it. Lambda
 Data Pipeline CI/CD Predictive Analytics Microservices Event-driven Architecture IoT Cloud
 Kafka The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Database Indexing Machine Learning Predictive Analytics Cloud JWT
 Frontend Don't be afraid to give up the good to go for the great. API Virtual Machines Cloud Functions Kafka Logging Container Orchestration UX Optimization Zero Downtime Deployment Monitoring Work hard in silence, let your success be your noise. Serverless Machine Learning Version Control
+Server Response Multi-threading Lambda Functions NLP Testing Parallel Processing Opportunities don't happen. You create them. Version Control Don't be afraid to give up the good to go for the great. Artificial Intelligence Cloud Zero Downtime Deployment Performance

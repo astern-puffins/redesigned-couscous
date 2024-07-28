@@ -27,3 +27,4 @@ API Gateway Success is not in what you have, but who you are. Agile Stay hungry,
 Virtual Machines Security Quantum Computing Act as if what you do makes a difference. It does. Containerization Database Indexing Load Balancing WebSockets CI/CD Multi-threading Frontend
 Firewalls Multi-threading To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. GraphQL Replica Set NLP
 Backend Cloud Functions Multi-threading React Containerization RabbitMQ JWT Frontend NLP Cache Invalidation Simplicity is the ultimate sophistication. Predictive Analytics
+Don't be afraid to give up the good to go for the great. Automation Logging IoT Kubernetes Difficult roads often lead to beautiful destinations.
