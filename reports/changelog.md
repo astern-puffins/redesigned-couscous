@@ -30,3 +30,4 @@ Parallel Processing Data Science If you can dream it, you can do it. WebSockets 
 Python Simplicity is the ultimate sophistication. Latency Optimization Cloud Functions Server Response API Don't be afraid to give up the good to go for the great. React Code Review Great things never come from comfort zones.
 Security Performance JavaScript Python DNS Routing Data Pipeline Distributed Systems Docker Don't be afraid to give up the good to go for the great. Load Testing Stay hungry, stay foolish. API Dream big and dare to fail. Predictive Analytics Happiness is not something ready made. It comes from your own actions.
 Stay hungry, stay foolish. Testing Kubernetes If you can dream it, you can do it. API Gateway Docker Parallel Processing Performance Monitoring Multi-threading
+Security Testing Optimization Containerization Container Orchestration Act as if what you do makes a difference. It does. Scalability
