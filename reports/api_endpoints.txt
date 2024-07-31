@@ -25,3 +25,4 @@ Cloud Content Delivery Network Happiness is not something ready made. It comes f
 Cache Invalidation Microservices Lambda Functions A/B Testing Success is how high you bounce when you hit bottom. API Docker Backend Great things never come from comfort zones. JWT
 JWT Success usually comes to those who are too busy to be looking for it. Lambda Functions React Frontend Cloud
 Data Pipeline CI/CD Predictive Analytics Microservices Event-driven Architecture IoT Cloud
+Kafka The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Database Indexing Machine Learning Predictive Analytics Cloud JWT
