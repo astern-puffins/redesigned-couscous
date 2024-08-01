@@ -22,3 +22,4 @@ API Event-driven Architecture Performance Load Testing WebSockets UX Optimizatio
 Version Control Data Science NLP The only way to do great work is to love what you do. Do what you love and the money will follow. Docker
 Framework Firewalls Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Load Balancing RabbitMQ Event Sourcing Python Serverless
 Simplicity is the ultimate sophistication. Kubernetes Zero Downtime Deployment Multi-threading API IoT
+Lambda Functions Serverless Cloud Virtual Machines Data Pipeline Load Testing Message Queue NLP Distributed Systems Pull Request IoT Security Docker Backend

@@ -22,3 +22,4 @@ Load Testing Latency Optimization DevOps Docker The only way to do great work is
 Load Testing Agile DNS Routing IoT Cloud Functions RabbitMQ Dream big and dare to fail.
 Frontend API Lambda Functions Database CI/CD Cloud Performance Data Pipeline Stay hungry, stay foolish. JWT Container Orchestration Do what you love and the money will follow.
 Backend Container Orchestration Event Sourcing JavaScript UX Optimization
+Zero Downtime Deployment IoT WebSockets Lambda Functions Opportunities don't happen. You create them. The only way to do great work is to love what you do. GraphQL Edge Computing DevOps
