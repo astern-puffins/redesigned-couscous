@@ -27,3 +27,4 @@ Server Response Kubernetes Container Orchestration Zero Downtime Deployment Arti
 Cloud Functions Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Cache Invalidation Backend Dream big and dare to fail. Edge Computing
 Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Container Orchestration Kafka Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Framework
 Parallel Processing Data Science If you can dream it, you can do it. WebSockets Latency Optimization Testing DNS Routing
+Python Simplicity is the ultimate sophistication. Latency Optimization Cloud Functions Server Response API Don't be afraid to give up the good to go for the great. React Code Review Great things never come from comfort zones.
