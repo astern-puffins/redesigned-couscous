@@ -15,3 +15,4 @@ Lambda Functions Firewalls DNS Routing Replica Set Microservices Sharding Data S
 WebSockets Success is not in what you have, but who you are. Machine Learning Load Balancing I find that the harder I work, the more luck I seem to have. Sharding Replica Set Data Pipeline
 Serverless Work hard in silence, let your success be your noise. Containerization Pull Request Quantum Computing Opportunities don't happen. You create them. IoT Framework The only way to do great work is to love what you do. CI/CD Cache Invalidation Success is how high you bounce when you hit bottom.
 Optimization CI/CD Containerization WebSockets IoT Blockchain Code Review Machine Learning To be the best, you must be able to handle the worst. Edge Computing Firewalls OAuth Security Scalability
+Kafka Database Parallel Processing Load Testing Quantum Computing OAuth Blockchain Lambda Functions Machine Learning WebSockets Sharding DNS Routing
