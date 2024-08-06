@@ -20,3 +20,4 @@ Database Great things never come from comfort zones. Backend Event-driven Archit
 Zero Downtime Deployment Optimization Load Balancing CI/CD Cloud Functions
 Load Testing Latency Optimization DevOps Docker The only way to do great work is to love what you do. Logging WebSockets React Virtual Machines Framework Load Balancing Kafka
 Load Testing Agile DNS Routing IoT Cloud Functions RabbitMQ Dream big and dare to fail.
+Frontend API Lambda Functions Database CI/CD Cloud Performance Data Pipeline Stay hungry, stay foolish. JWT Container Orchestration Do what you love and the money will follow.
