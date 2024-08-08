@@ -16,3 +16,4 @@ Serverless Optimization Edge Computing Containerization Kafka Lambda Functions M
 Optimization Innovation distinguishes between a leader and a follower. Cloud Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Kafka Replica Set Edge Computing
 Cloud Functions WebSockets DevOps Edge Computing UX Optimization
 OAuth Virtual Machines UX Optimization Backend Innovation distinguishes between a leader and a follower. Automation Message Queue Simplicity is the ultimate sophistication. React Quantum Computing Distributed Systems Algorithm The only way to do great work is to love what you do.
+Microservices GraphQL Code Review Zero Downtime Deployment Backend Scalability Event Sourcing Dream big and dare to fail.
