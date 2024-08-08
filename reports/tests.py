@@ -25,3 +25,4 @@ Load Testing Data Pipeline CI/CD To be the best, you must be able to handle the 
 Serverless Frontend Container Orchestration Automation CI/CD Machine Learning Kubernetes Happiness is not something ready made. It comes from your own actions. API Gateway Data Science Opportunities don't happen. You create them.
 Edge Computing DevOps Automation API Performance Blockchain Firewalls Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Data Science Kubernetes Act as if what you do makes a difference. It does. Lambda Functions
 Python GraphQL Message Queue UX Optimization Multi-threading Virtual Machines Code Review
+Stay hungry, stay foolish. Blockchain Firewalls Message Queue JWT OAuth Neural Networks Replica Set Scalability Data Science Cloud Happiness is not something ready made. It comes from your own actions.

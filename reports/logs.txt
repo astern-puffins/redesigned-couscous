@@ -19,3 +19,4 @@ WebSockets Message Queue Data Pipeline Algorithm GraphQL Testing Monitoring Kafk
 Message Queue Backend Firewalls CI/CD JavaScript Database Security Opportunities don't happen. You create them. Deployment IoT DNS Routing Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great.
 Cloud Functions Virtual Machines Server Response Success usually comes to those who are too busy to be looking for it. Performance Code Review IoT Data Science Blockchain Event-driven Architecture Do what you love and the money will follow. NLP Neural Networks OAuth
 Difficult roads often lead to beautiful destinations. Load Balancing Stay hungry, stay foolish. Message Queue Agile Serverless OAuth Testing Performance Dream big and dare to fail.
+Optimization Kafka Data Pipeline Load Testing Big Data Artificial Intelligence The only way to do great work is to love what you do. Cloud Functions Predictive Analytics

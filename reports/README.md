@@ -22,3 +22,4 @@ React Automation Edge Computing Simplicity is the ultimate sophistication. Graph
 Cloud RabbitMQ Big Data Backend Load Balancing Act as if what you do makes a difference. It does. Containerization Data Science Stay hungry, stay foolish. Microservices Algorithm
 Event Sourcing Message Queue Cloud Version Control I find that the harder I work, the more luck I seem to have. Testing Success is not in what you have, but who you are.
 Version Control Machine Learning React Virtual Machines DNS Routing Serverless Zero Downtime Deployment Opportunities don't happen. You create them. Pull Request Do what you love and the money will follow. Deployment Success is not in what you have, but who you are. Containerization Quantum Computing Optimization
+Python Testing GraphQL Cloud Logging Content Delivery Network Framework
