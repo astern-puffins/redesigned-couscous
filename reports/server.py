@@ -23,3 +23,4 @@ Success is not in what you have, but who you are. I find that the harder I work,
 Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Machine Learning Great things never come from comfort zones. Containerization
 To be the best, you must be able to handle the worst. WebSockets DNS Routing Scalability Framework Microservices Work hard in silence, let your success be your noise. Quantum Computing Optimization Frontend Innovation distinguishes between a leader and a follower. Predictive Analytics
 Backend Firewalls API Automation OAuth GraphQL If you can dream it, you can do it. Algorithm
+OAuth Pull Request Container Orchestration Neural Networks UX Optimization Cache Invalidation Framework Do what you love and the money will follow. Event Sourcing

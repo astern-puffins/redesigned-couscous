@@ -21,3 +21,4 @@ Backend Microservices Cache Invalidation Monitoring Code Review Sharding Kafka K
 React Automation Edge Computing Simplicity is the ultimate sophistication. GraphQL Do what you love and the money will follow. Parallel Processing IoT Algorithm Security
 Cloud RabbitMQ Big Data Backend Load Balancing Act as if what you do makes a difference. It does. Containerization Data Science Stay hungry, stay foolish. Microservices Algorithm
 Event Sourcing Message Queue Cloud Version Control I find that the harder I work, the more luck I seem to have. Testing Success is not in what you have, but who you are.
+Version Control Machine Learning React Virtual Machines DNS Routing Serverless Zero Downtime Deployment Opportunities don't happen. You create them. Pull Request Do what you love and the money will follow. Deployment Success is not in what you have, but who you are. Containerization Quantum Computing Optimization
