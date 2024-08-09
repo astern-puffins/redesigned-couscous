@@ -21,3 +21,4 @@ Great things never come from comfort zones. UX Optimization Scalability Database
 API Event-driven Architecture Performance Load Testing WebSockets UX Optimization Backend DevOps Security Docker
 Version Control Data Science NLP The only way to do great work is to love what you do. Do what you love and the money will follow. Docker
 Framework Firewalls Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Load Balancing RabbitMQ Event Sourcing Python Serverless
+Simplicity is the ultimate sophistication. Kubernetes Zero Downtime Deployment Multi-threading API IoT
