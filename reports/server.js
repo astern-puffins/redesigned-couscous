@@ -21,3 +21,4 @@ Predictive Analytics Do what you love and the money will follow. Sharding Docker
 Simplicity is the ultimate sophistication. Quantum Computing Dream big and dare to fail. Event-driven Architecture Event Sourcing API Gateway Neural Networks
 CI/CD Framework Scalability Neural Networks Code Review Blockchain
 Innovation distinguishes between a leader and a follower. Firewalls OAuth Blockchain Distributed Systems Performance To be the best, you must be able to handle the worst. Optimization
+DevOps CI/CD Great things never come from comfort zones. Dream big and dare to fail. Stay hungry, stay foolish. Kafka Don't be afraid to give up the good to go for the great. API Gateway A/B Testing Latency Optimization Sharding OAuth Scalability Success doesn’t just find you. You have to go out and get it.
