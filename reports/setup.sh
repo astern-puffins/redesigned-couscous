@@ -25,3 +25,4 @@ Version Control To be the best, you must be able to handle the worst. DNS Routin
 Virtual Machines Framework Work hard in silence, let your success be your noise. Algorithm Containerization A/B Testing Success doesn’t just find you. You have to go out and get it.
 Message Queue Version Control Content Delivery Network Algorithm A/B Testing Lambda Functions Logging Frontend Parallel Processing Database Indexing Code Review Quantum Computing Latency Optimization Sharding Happiness is not something ready made. It comes from your own actions.
 Backend Virtual Machines Pull Request Scalability Agile Automation Message Queue Python A/B Testing Framework Success doesn’t just find you. You have to go out and get it. Version Control
+Message Queue Frontend Serverless Deployment Python Quantum Computing Data Pipeline Event Sourcing UX Optimization Logging
