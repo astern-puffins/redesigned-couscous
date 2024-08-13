@@ -24,3 +24,4 @@ RabbitMQ Security Event-driven Architecture Happiness is not something ready mad
 Monitoring Success is how high you bounce when you hit bottom. WebSockets UX Optimization Content Delivery Network
 Sharding WebSockets Scalability The only way to do great work is to love what you do. Firewalls Success is not in what you have, but who you are. Python Deployment Quantum Computing
 Server Response Kubernetes Container Orchestration Zero Downtime Deployment Artificial Intelligence Firewalls Docker Edge Computing RabbitMQ Load Testing Success doesn’t just find you. You have to go out and get it.
+Cloud Functions Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Cache Invalidation Backend Dream big and dare to fail. Edge Computing

@@ -25,3 +25,4 @@ Sharding DNS Routing A/B Testing GraphQL Success usually comes to those who are 
 Microservices Great things never come from comfort zones. Quantum Computing API Security
 API Gateway Success is not in what you have, but who you are. Agile Stay hungry, stay foolish. Testing Data Pipeline CI/CD Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. NLP Security If you can dream it, you can do it. Act as if what you do makes a difference. It does. Frontend
 Virtual Machines Security Quantum Computing Act as if what you do makes a difference. It does. Containerization Database Indexing Load Balancing WebSockets CI/CD Multi-threading Frontend
+Firewalls Multi-threading To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. GraphQL Replica Set NLP
