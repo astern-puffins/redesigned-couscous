@@ -17,3 +17,4 @@ DevOps Simplicity is the ultimate sophistication. Cloud Security I find that the
 Microservices UX Optimization Database Backend Container Orchestration Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Virtual Machines Latency Optimization React Framework RabbitMQ
 WebSockets Optimization JavaScript Python If you can dream it, you can do it. NLP Algorithm Deployment Message Queue
 JavaScript Don't be afraid to give up the good to go for the great. WebSockets API Edge Computing Firewalls Database Indexing
+Work hard in silence, let your success be your noise. Monitoring OAuth JavaScript RabbitMQ
