@@ -24,3 +24,4 @@ Neural Networks Performance Kafka Zero Downtime Deployment Container Orchestrati
 Version Control To be the best, you must be able to handle the worst. DNS Routing Scalability Performance Testing CI/CD Code Review Automation Multi-threading
 Virtual Machines Framework Work hard in silence, let your success be your noise. Algorithm Containerization A/B Testing Success doesn’t just find you. You have to go out and get it.
 Message Queue Version Control Content Delivery Network Algorithm A/B Testing Lambda Functions Logging Frontend Parallel Processing Database Indexing Code Review Quantum Computing Latency Optimization Sharding Happiness is not something ready made. It comes from your own actions.
+Backend Virtual Machines Pull Request Scalability Agile Automation Message Queue Python A/B Testing Framework Success doesn’t just find you. You have to go out and get it. Version Control
