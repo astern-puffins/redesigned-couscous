@@ -19,3 +19,4 @@ Monitoring If you can dream it, you can do it. Big Data Scalability Optimization
 Database Great things never come from comfort zones. Backend Event-driven Architecture Don't be afraid to give up the good to go for the great. GraphQL Frontend Code Review DevOps Big Data
 Zero Downtime Deployment Optimization Load Balancing CI/CD Cloud Functions
 Load Testing Latency Optimization DevOps Docker The only way to do great work is to love what you do. Logging WebSockets React Virtual Machines Framework Load Balancing Kafka
+Load Testing Agile DNS Routing IoT Cloud Functions RabbitMQ Dream big and dare to fail.
