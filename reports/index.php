@@ -18,3 +18,4 @@ Predictive Analytics Event-driven Architecture Load Testing Monitoring I find th
 Monitoring If you can dream it, you can do it. Big Data Scalability Optimization Containerization A/B Testing
 Database Great things never come from comfort zones. Backend Event-driven Architecture Don't be afraid to give up the good to go for the great. GraphQL Frontend Code Review DevOps Big Data
 Zero Downtime Deployment Optimization Load Balancing CI/CD Cloud Functions
+Load Testing Latency Optimization DevOps Docker The only way to do great work is to love what you do. Logging WebSockets React Virtual Machines Framework Load Balancing Kafka

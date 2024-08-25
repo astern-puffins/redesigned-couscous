@@ -19,3 +19,4 @@ JavaScript DNS Routing Server Response CI/CD Code Review Load Testing Blockchain
 Cache Invalidation DNS Routing Agile Simplicity is the ultimate sophistication. Edge Computing
 Backend Microservices Cache Invalidation Monitoring Code Review Sharding Kafka Kubernetes Database The only way to do great work is to love what you do.
 React Automation Edge Computing Simplicity is the ultimate sophistication. GraphQL Do what you love and the money will follow. Parallel Processing IoT Algorithm Security
+Cloud RabbitMQ Big Data Backend Load Balancing Act as if what you do makes a difference. It does. Containerization Data Science Stay hungry, stay foolish. Microservices Algorithm
