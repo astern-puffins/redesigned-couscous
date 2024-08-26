@@ -16,3 +16,4 @@ Container Orchestration Predictive Analytics Machine Learning Lambda Functions F
 DevOps Simplicity is the ultimate sophistication. Cloud Security I find that the harder I work, the more luck I seem to have. Distributed Systems Sharding Load Testing OAuth Containerization Blockchain Python
 Microservices UX Optimization Database Backend Container Orchestration Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Virtual Machines Latency Optimization React Framework RabbitMQ
 WebSockets Optimization JavaScript Python If you can dream it, you can do it. NLP Algorithm Deployment Message Queue
+JavaScript Don't be afraid to give up the good to go for the great. WebSockets API Edge Computing Firewalls Database Indexing
