@@ -18,3 +18,4 @@ Cloud Sharding UX Optimization To be the best, you must be able to handle the wo
 Serverless Opportunities don't happen. You create them. Event Sourcing Database Success is not in what you have, but who you are. Backend Frontend Load Testing Edge Computing Algorithm RabbitMQ JavaScript API Gateway Firewalls
 GraphQL Work hard in silence, let your success be your noise. RabbitMQ Great things never come from comfort zones. API Gateway Don't be afraid to give up the good to go for the great. Dream big and dare to fail.
 Great things never come from comfort zones. UX Optimization Scalability Database Indexing Database Big Data Blockchain API Gateway Opportunities don't happen. You create them. Testing Sharding Success is how high you bounce when you hit bottom. Quantum Computing WebSockets
+API Event-driven Architecture Performance Load Testing WebSockets UX Optimization Backend DevOps Security Docker
