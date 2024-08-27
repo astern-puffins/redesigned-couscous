@@ -24,3 +24,4 @@ Success is not in what you have, but who you are. API Gateway Microservices IoT 
 Latency Optimization Python Event Sourcing DevOps Cache Invalidation Firewalls Success is not in what you have, but who you are. Event-driven Architecture
 Virtual Machines RabbitMQ Firewalls Event-driven Architecture Latency Optimization Code Review
 Neural Networks RabbitMQ Artificial Intelligence Container Orchestration Lambda Functions Database To be the best, you must be able to handle the worst. JavaScript Framework Testing Success usually comes to those who are too busy to be looking for it.
+Latency Optimization Firewalls Simplicity is the ultimate sophistication. Do what you love and the money will follow. Python Neural Networks
