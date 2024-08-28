@@ -12,3 +12,4 @@ Data Science Act as if what you do makes a difference. It does. Automation I fin
 NLP Cloud Success is not in what you have, but who you are. Multi-threading Optimization Difficult roads often lead to beautiful destinations. RabbitMQ Act as if what you do makes a difference. It does. Predictive Analytics
 Big Data Performance Don't be afraid to give up the good to go for the great. Database Data Science Frontend Containerization OAuth IoT
 DevOps Event-driven Architecture Replica Set Success is how high you bounce when you hit bottom. Message Queue OAuth Machine Learning Parallel Processing Lambda Functions CI/CD Virtual Machines UX Optimization Code Review Happiness is not something ready made. It comes from your own actions.
+Container Orchestration Predictive Analytics Machine Learning Lambda Functions Frontend Deployment Quantum Computing Performance Stay hungry, stay foolish. Monitoring CI/CD Algorithm
