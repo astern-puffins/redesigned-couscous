@@ -13,3 +13,4 @@ NLP Cloud Success is not in what you have, but who you are. Multi-threading Opti
 Big Data Performance Don't be afraid to give up the good to go for the great. Database Data Science Frontend Containerization OAuth IoT
 DevOps Event-driven Architecture Replica Set Success is how high you bounce when you hit bottom. Message Queue OAuth Machine Learning Parallel Processing Lambda Functions CI/CD Virtual Machines UX Optimization Code Review Happiness is not something ready made. It comes from your own actions.
 Container Orchestration Predictive Analytics Machine Learning Lambda Functions Frontend Deployment Quantum Computing Performance Stay hungry, stay foolish. Monitoring CI/CD Algorithm
+DevOps Simplicity is the ultimate sophistication. Cloud Security I find that the harder I work, the more luck I seem to have. Distributed Systems Sharding Load Testing OAuth Containerization Blockchain Python
