@@ -14,3 +14,4 @@ Monitoring Python Success usually comes to those who are too busy to be looking 
 DNS Routing Cloud Functions DevOps Dream big and dare to fail. Performance Security Load Balancing Load Testing Serverless
 Message Queue Act as if what you do makes a difference. It does. Python API Gateway Security Stay hungry, stay foolish. Content Delivery Network
 Code Review The only way to do great work is to love what you do. OAuth Algorithm Success is how high you bounce when you hit bottom. Distributed Systems Difficult roads often lead to beautiful destinations. UX Optimization Server Response Monitoring Neural Networks Optimization
+Machine Learning Performance Virtual Machines Multi-threading Content Delivery Network DevOps Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Containerization Success is not in what you have, but who you are. GraphQL Sharding Difficult roads often lead to beautiful destinations.

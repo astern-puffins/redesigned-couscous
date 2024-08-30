@@ -22,3 +22,4 @@ Edge Computing Optimization Firewalls Happiness is not something ready made. It 
 Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Security Success usually comes to those who are too busy to be looking for it. Algorithm Blockchain Neural Networks Cloud Functions React
 Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Machine Learning Great things never come from comfort zones. Containerization
 To be the best, you must be able to handle the worst. WebSockets DNS Routing Scalability Framework Microservices Work hard in silence, let your success be your noise. Quantum Computing Optimization Frontend Innovation distinguishes between a leader and a follower. Predictive Analytics
+Backend Firewalls API Automation OAuth GraphQL If you can dream it, you can do it. Algorithm
