@@ -14,3 +14,4 @@ If you can dream it, you can do it. JavaScript Difficult roads often lead to bea
 React Deployment A/B Testing Dream big and dare to fail. Kubernetes
 Serverless Optimization Edge Computing Containerization Kafka Lambda Functions Message Queue IoT Docker Big Data Event Sourcing Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Machine Learning Quantum Computing
 Optimization Innovation distinguishes between a leader and a follower. Cloud Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Kafka Replica Set Edge Computing
+Cloud Functions WebSockets DevOps Edge Computing UX Optimization
