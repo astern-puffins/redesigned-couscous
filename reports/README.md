@@ -17,3 +17,4 @@ Load Balancing Act as if what you do makes a difference. It does. OAuth Cache In
 Container Orchestration Frontend Scalability Serverless Message Queue
 JavaScript DNS Routing Server Response CI/CD Code Review Load Testing Blockchain Automation Database Indexing
 Cache Invalidation DNS Routing Agile Simplicity is the ultimate sophistication. Edge Computing
+Backend Microservices Cache Invalidation Monitoring Code Review Sharding Kafka Kubernetes Database The only way to do great work is to love what you do.
