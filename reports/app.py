@@ -23,3 +23,4 @@ Load Testing UX Optimization Database Algorithm Cloud Serverless CI/CD Work hard
 Success is not in what you have, but who you are. API Gateway Microservices IoT Stay hungry, stay foolish. Database Dream big and dare to fail.
 Latency Optimization Python Event Sourcing DevOps Cache Invalidation Firewalls Success is not in what you have, but who you are. Event-driven Architecture
 Virtual Machines RabbitMQ Firewalls Event-driven Architecture Latency Optimization Code Review
+Neural Networks RabbitMQ Artificial Intelligence Container Orchestration Lambda Functions Database To be the best, you must be able to handle the worst. JavaScript Framework Testing Success usually comes to those who are too busy to be looking for it.
