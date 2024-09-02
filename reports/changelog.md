@@ -22,3 +22,4 @@ Zero Downtime Deployment Scalability If you can dream it, you can do it. Contain
 JWT Replica Set Predictive Analytics NLP Logging Load Balancing OAuth Act as if what you do makes a difference. It does. WebSockets RabbitMQ Multi-threading Testing Data Science Difficult roads often lead to beautiful destinations.
 RabbitMQ Security Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Backend GraphQL API Gateway Work hard in silence, let your success be your noise.
 Monitoring Success is how high you bounce when you hit bottom. WebSockets UX Optimization Content Delivery Network
+Sharding WebSockets Scalability The only way to do great work is to love what you do. Firewalls Success is not in what you have, but who you are. Python Deployment Quantum Computing
