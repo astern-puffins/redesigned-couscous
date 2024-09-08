@@ -21,3 +21,4 @@ Dream big and dare to fail. Frontend Blockchain A/B Testing Cloud Functions Cont
 Zero Downtime Deployment Scalability If you can dream it, you can do it. Container Orchestration Logging Python Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. OAuth Microservices
 JWT Replica Set Predictive Analytics NLP Logging Load Balancing OAuth Act as if what you do makes a difference. It does. WebSockets RabbitMQ Multi-threading Testing Data Science Difficult roads often lead to beautiful destinations.
 RabbitMQ Security Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Backend GraphQL API Gateway Work hard in silence, let your success be your noise.
+Monitoring Success is how high you bounce when you hit bottom. WebSockets UX Optimization Content Delivery Network
