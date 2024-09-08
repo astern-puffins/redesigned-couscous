@@ -15,3 +15,4 @@ Data Science Security Act as if what you do makes a difference. It does. OAuth T
 Kubernetes Machine Learning Monitoring The only way to do great work is to love what you do. Stay hungry, stay foolish. Database
 Load Balancing Act as if what you do makes a difference. It does. OAuth Cache Invalidation Python Event-driven Architecture JWT
 Container Orchestration Frontend Scalability Serverless Message Queue
+JavaScript DNS Routing Server Response CI/CD Code Review Load Testing Blockchain Automation Database Indexing
