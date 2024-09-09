@@ -23,3 +23,4 @@ Optimization Message Queue Machine Learning Event-driven Architecture Success do
 Dream big and dare to fail. Artificial Intelligence Machine Learning Event-driven Architecture Quantum Computing
 Serverless Artificial Intelligence Edge Computing Load Balancing Deployment Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Pull Request Cloud Multi-threading A/B Testing OAuth
 Zero Downtime Deployment Server Response GraphQL Machine Learning Cache Invalidation
+Kubernetes RabbitMQ Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. A/B Testing
