@@ -12,3 +12,4 @@ DevOps Framework Optimization CI/CD Server Response Load Testing Serverless Fire
 Parallel Processing NLP OAuth Cloud Functions Code Review Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. GraphQL
 Predictive Analytics React Load Balancing Event Sourcing Difficult roads often lead to beautiful destinations. Frontend
 Lambda Functions Firewalls DNS Routing Replica Set Microservices Sharding Data Science CI/CD Parallel Processing Do what you love and the money will follow. Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Distributed Systems Agile
+WebSockets Success is not in what you have, but who you are. Machine Learning Load Balancing I find that the harder I work, the more luck I seem to have. Sharding Replica Set Data Pipeline
