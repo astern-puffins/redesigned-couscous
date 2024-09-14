@@ -18,3 +18,4 @@ Performance Blockchain Cache Invalidation Event-driven Architecture Simplicity i
 Optimization Scalability Agile Pull Request Content Delivery Network Framework Cloud Data Pipeline
 Opportunities don't happen. You create them. Machine Learning Performance Multi-threading Virtual Machines I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Firewalls Code Review Act as if what you do makes a difference. It does. Cloud NLP Don't be afraid to give up the good to go for the great.
 Predictive Analytics Do what you love and the money will follow. Sharding Docker Serverless Firewalls CI/CD Scalability Code Review Microservices Security Latency Optimization OAuth
+Simplicity is the ultimate sophistication. Quantum Computing Dream big and dare to fail. Event-driven Architecture Event Sourcing API Gateway Neural Networks
