@@ -20,3 +20,4 @@ GraphQL Container Orchestration Content Delivery Network Microservices Simplicit
 Act as if what you do makes a difference. It does. Backend Difficult roads often lead to beautiful destinations. Testing Performance
 Kafka Monitoring Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Cloud Functions A/B Testing
 Multi-threading Kubernetes Server Response Replica Set Quantum Computing DNS Routing Happiness is not something ready made. It comes from your own actions. UX Optimization Message Queue Simplicity is the ultimate sophistication. Distributed Systems Database Indexing
+Neural Networks Performance Kafka Zero Downtime Deployment Container Orchestration Success is how high you bounce when you hit bottom. Sharding Happiness is not something ready made. It comes from your own actions. Predictive Analytics Distributed Systems Don't be afraid to give up the good to go for the great.
