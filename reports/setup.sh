@@ -19,3 +19,4 @@ DNS Routing GraphQL Do what you love and the money will follow. Content Delivery
 GraphQL Container Orchestration Content Delivery Network Microservices Simplicity is the ultimate sophistication. Deployment CI/CD Distributed Systems Stay hungry, stay foolish. Performance Cache Invalidation
 Act as if what you do makes a difference. It does. Backend Difficult roads often lead to beautiful destinations. Testing Performance
 Kafka Monitoring Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Cloud Functions A/B Testing
+Multi-threading Kubernetes Server Response Replica Set Quantum Computing DNS Routing Happiness is not something ready made. It comes from your own actions. UX Optimization Message Queue Simplicity is the ultimate sophistication. Distributed Systems Database Indexing
