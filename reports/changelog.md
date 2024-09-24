@@ -19,3 +19,4 @@ Automation Virtual Machines Event-driven Architecture Code Review Message Queue 
 API Gateway Framework Testing JWT DNS Routing Data Pipeline UX Optimization To be the best, you must be able to handle the worst. RabbitMQ Docker Work hard in silence, let your success be your noise. Backend I find that the harder I work, the more luck I seem to have.
 Dream big and dare to fail. Frontend Blockchain A/B Testing Cloud Functions Content Delivery Network
 Zero Downtime Deployment Scalability If you can dream it, you can do it. Container Orchestration Logging Python Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. OAuth Microservices
+JWT Replica Set Predictive Analytics NLP Logging Load Balancing OAuth Act as if what you do makes a difference. It does. WebSockets RabbitMQ Multi-threading Testing Data Science Difficult roads often lead to beautiful destinations.
