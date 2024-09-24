@@ -22,3 +22,4 @@ Do what you love and the money will follow. If you can dream it, you can do it. 
 Load Testing UX Optimization Database Algorithm Cloud Serverless CI/CD Work hard in silence, let your success be your noise. If you can dream it, you can do it. Pull Request JWT Quantum Computing Database Indexing
 Success is not in what you have, but who you are. API Gateway Microservices IoT Stay hungry, stay foolish. Database Dream big and dare to fail.
 Latency Optimization Python Event Sourcing DevOps Cache Invalidation Firewalls Success is not in what you have, but who you are. Event-driven Architecture
+Virtual Machines RabbitMQ Firewalls Event-driven Architecture Latency Optimization Code Review
