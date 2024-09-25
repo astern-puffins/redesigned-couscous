@@ -12,3 +12,4 @@ Pull Request The only way to do great work is to love what you do. Success doesn
 Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Event Sourcing JWT Don't be afraid to give up the good to go for the great. Python Cache Invalidation To be the best, you must be able to handle the worst. Cloud Functions Lambda Functions Microservices DNS Routing Serverless
 Monitoring Python Success usually comes to those who are too busy to be looking for it. WebSockets Frontend The only way to do great work is to love what you do. Firewalls Quantum Computing Difficult roads often lead to beautiful destinations. Cloud Functions NLP
 DNS Routing Cloud Functions DevOps Dream big and dare to fail. Performance Security Load Balancing Load Testing Serverless
+Message Queue Act as if what you do makes a difference. It does. Python API Gateway Security Stay hungry, stay foolish. Content Delivery Network
