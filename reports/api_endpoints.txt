@@ -18,3 +18,4 @@ Cloud JavaScript Work hard in silence, let your success be your noise. Edge Comp
 JavaScript Zero Downtime Deployment Lambda Functions Predictive Analytics A/B Testing Event Sourcing Performance
 Automation Performance Backend Zero Downtime Deployment Success is not in what you have, but who you are. Data Science Work hard in silence, let your success be your noise. Cloud JWT
 Cloud A/B Testing Difficult roads often lead to beautiful destinations. Quantum Computing Testing Database NLP Content Delivery Network Artificial Intelligence Success is not in what you have, but who you are. Version Control
+Performance Success is not in what you have, but who you are. Version Control Pull Request API Data Pipeline
