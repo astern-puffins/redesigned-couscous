@@ -15,3 +15,4 @@ Simplicity is the ultimate sophistication. UX Optimization Replica Set Edge Comp
 Serverless Event-driven Architecture Firewalls Microservices JWT Agile Database Performance OAuth
 Frontend CI/CD Lambda Functions Big Data Success is not in what you have, but who you are. Server Response
 Predictive Analytics Event-driven Architecture Load Testing Monitoring I find that the harder I work, the more luck I seem to have. Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Scalability Containerization
+Monitoring If you can dream it, you can do it. Big Data Scalability Optimization Containerization A/B Testing
