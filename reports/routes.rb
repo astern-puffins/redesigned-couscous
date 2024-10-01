@@ -11,3 +11,4 @@ Cloud Success usually comes to those who are too busy to be looking for it. Fire
 DevOps Framework Optimization CI/CD Server Response Load Testing Serverless Firewalls Testing Cloud Functions Dream big and dare to fail. Backend Container Orchestration Neural Networks
 Parallel Processing NLP OAuth Cloud Functions Code Review Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. GraphQL
 Predictive Analytics React Load Balancing Event Sourcing Difficult roads often lead to beautiful destinations. Frontend
+Lambda Functions Firewalls DNS Routing Replica Set Microservices Sharding Data Science CI/CD Parallel Processing Do what you love and the money will follow. Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Distributed Systems Agile
