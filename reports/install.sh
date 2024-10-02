@@ -9,3 +9,4 @@ Performance Deployment Parallel Processing If you can dream it, you can do it. O
 Blockchain Algorithm API Neural Networks Logging A/B Testing Performance Testing NLP Serverless Lambda Functions Content Delivery Network
 Message Queue Testing If you can dream it, you can do it. Sharding Dream big and dare to fail. Database Indexing DevOps Performance Content Delivery Network Cloud API Gateway Agile Containerization Simplicity is the ultimate sophistication.
 Edge Computing Monitoring Load Balancing Content Delivery Network API Gateway I find that the harder I work, the more luck I seem to have. Security Lambda Functions Load Testing CI/CD
+IoT Frontend Dream big and dare to fail. Predictive Analytics API Security Scalability Monitoring OAuth Deployment React Cache Invalidation To be the best, you must be able to handle the worst.
