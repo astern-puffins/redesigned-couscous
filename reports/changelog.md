@@ -17,3 +17,4 @@ To be the best, you must be able to handle the worst. JWT Zero Downtime Deployme
 If you can dream it, you can do it. Content Delivery Network Serverless Opportunities don't happen. You create them. NLP IoT Event Sourcing The only way to do great work is to love what you do.
 Automation Virtual Machines Event-driven Architecture Code Review Message Queue Logging Server Response
 API Gateway Framework Testing JWT DNS Routing Data Pipeline UX Optimization To be the best, you must be able to handle the worst. RabbitMQ Docker Work hard in silence, let your success be your noise. Backend I find that the harder I work, the more luck I seem to have.
+Dream big and dare to fail. Frontend Blockchain A/B Testing Cloud Functions Content Delivery Network
