@@ -13,3 +13,4 @@ Stay hungry, stay foolish. Machine Learning Containerization I find that the har
 NLP Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Data Pipeline Pull Request
 Simplicity is the ultimate sophistication. UX Optimization Replica Set Edge Computing To be the best, you must be able to handle the worst. Multi-threading Agile Blockchain CI/CD Don't be afraid to give up the good to go for the great. Distributed Systems Docker
 Serverless Event-driven Architecture Firewalls Microservices JWT Agile Database Performance OAuth
+Frontend CI/CD Lambda Functions Big Data Success is not in what you have, but who you are. Server Response
