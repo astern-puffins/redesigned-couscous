@@ -14,3 +14,4 @@ Big Data API Gateway React Scalability Event Sourcing
 Code Review Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Artificial Intelligence Data Science
 Agile To be the best, you must be able to handle the worst. Logging Act as if what you do makes a difference. It does. Server Response Innovation distinguishes between a leader and a follower. Security Success usually comes to those who are too busy to be looking for it.
 Deployment Container Orchestration Lambda Functions Replica Set Kubernetes
+Cloud Sharding UX Optimization To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Microservices I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Load Testing Frontend Stay hungry, stay foolish. Replica Set Multi-threading Cache Invalidation

@@ -12,3 +12,4 @@ Work hard in silence, let your success be your noise. Event-driven Architecture 
 Stay hungry, stay foolish. Machine Learning Containerization I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions.
 NLP Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Data Pipeline Pull Request
 Simplicity is the ultimate sophistication. UX Optimization Replica Set Edge Computing To be the best, you must be able to handle the worst. Multi-threading Agile Blockchain CI/CD Don't be afraid to give up the good to go for the great. Distributed Systems Docker
+Serverless Event-driven Architecture Firewalls Microservices JWT Agile Database Performance OAuth
