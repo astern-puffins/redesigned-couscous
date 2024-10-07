@@ -17,3 +17,4 @@ Database Indexing Opportunities don't happen. You create them. Lambda Functions 
 Database Indexing The only way to do great work is to love what you do. DNS Routing Performance Docker
 DNS Routing GraphQL Do what you love and the money will follow. Content Delivery Network Agile
 GraphQL Container Orchestration Content Delivery Network Microservices Simplicity is the ultimate sophistication. Deployment CI/CD Distributed Systems Stay hungry, stay foolish. Performance Cache Invalidation
+Act as if what you do makes a difference. It does. Backend Difficult roads often lead to beautiful destinations. Testing Performance
