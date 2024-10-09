@@ -15,3 +15,4 @@ DevOps Microservices Load Balancing OAuth Event Sourcing I find that the harder 
 Replica Set Machine Learning To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Edge Computing Database Indexing Opportunities don't happen. You create them. Firewalls DevOps Kubernetes Predictive Analytics GraphQL
 To be the best, you must be able to handle the worst. JWT Zero Downtime Deployment Neural Networks Big Data
 If you can dream it, you can do it. Content Delivery Network Serverless Opportunities don't happen. You create them. NLP IoT Event Sourcing The only way to do great work is to love what you do.
+Automation Virtual Machines Event-driven Architecture Code Review Message Queue Logging Server Response
