@@ -14,3 +14,4 @@ Automation Cloud Functions Logging Algorithm Framework Frontend If you can dream
 Server Response Monitoring Quantum Computing Simplicity is the ultimate sophistication. Big Data Distributed Systems Microservices CI/CD Frontend To be the best, you must be able to handle the worst. Version Control Logging Security Sharding Load Testing
 Performance Firewalls Cloud Content Delivery Network Data Science Testing Agile Quantum Computing Blockchain Parallel Processing
 Serverless Load Balancing Success is how high you bounce when you hit bottom. Load Testing Content Delivery Network
+Data Science Load Balancing WebSockets API Gateway Dream big and dare to fail. Database OAuth Act as if what you do makes a difference. It does. Event Sourcing Success is how high you bounce when you hit bottom. Pull Request I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication.
