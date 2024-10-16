@@ -13,3 +13,4 @@ Don't be afraid to give up the good to go for the great. A/B Testing API Gateway
 Automation Cloud Functions Logging Algorithm Framework Frontend If you can dream it, you can do it. Great things never come from comfort zones. Database Indexing Container Orchestration Event-driven Architecture Kafka Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Code Review
 Server Response Monitoring Quantum Computing Simplicity is the ultimate sophistication. Big Data Distributed Systems Microservices CI/CD Frontend To be the best, you must be able to handle the worst. Version Control Logging Security Sharding Load Testing
 Performance Firewalls Cloud Content Delivery Network Data Science Testing Agile Quantum Computing Blockchain Parallel Processing
+Serverless Load Balancing Success is how high you bounce when you hit bottom. Load Testing Content Delivery Network
