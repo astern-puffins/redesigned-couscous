@@ -11,3 +11,4 @@ Algorithm Success usually comes to those who are too busy to be looking for it. 
 UX Optimization Stay hungry, stay foolish. The only way to do great work is to love what you do. Data Science Cloud A/B Testing Replica Set Lambda Functions Edge Computing
 Frontend Dream big and dare to fail. UX Optimization Backend A/B Testing Latency Optimization Parallel Processing Agile Cloud Functions Optimization React The only way to do great work is to love what you do.
 Big Data API Gateway React Scalability Event Sourcing
+Code Review Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Artificial Intelligence Data Science
