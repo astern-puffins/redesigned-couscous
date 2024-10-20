@@ -9,3 +9,4 @@ Zero Downtime Deployment Parallel Processing Monitoring Data Science Framework B
 Serverless Monitoring Work hard in silence, let your success be your noise. Backend GraphQL Framework Virtual Machines Database Distributed Systems OAuth Algorithm Docker
 Cloud Success usually comes to those who are too busy to be looking for it. Firewalls Kubernetes Containerization Virtual Machines Load Testing Multi-threading Deployment Data Pipeline Cache Invalidation Testing Scalability
 DevOps Framework Optimization CI/CD Server Response Load Testing Serverless Firewalls Testing Cloud Functions Dream big and dare to fail. Backend Container Orchestration Neural Networks
+Parallel Processing NLP OAuth Cloud Functions Code Review Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. GraphQL
