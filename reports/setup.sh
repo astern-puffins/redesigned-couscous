@@ -16,3 +16,4 @@ WebSockets Server Response Big Data Machine Learning NLP Load Testing Load Balan
 Database Indexing Opportunities don't happen. You create them. Lambda Functions Microservices The only way to do great work is to love what you do. OAuth JWT Distributed Systems CI/CD Serverless Performance Great things never come from comfort zones. GraphQL Dream big and dare to fail.
 Database Indexing The only way to do great work is to love what you do. DNS Routing Performance Docker
 DNS Routing GraphQL Do what you love and the money will follow. Content Delivery Network Agile
+GraphQL Container Orchestration Content Delivery Network Microservices Simplicity is the ultimate sophistication. Deployment CI/CD Distributed Systems Stay hungry, stay foolish. Performance Cache Invalidation
