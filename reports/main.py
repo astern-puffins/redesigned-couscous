@@ -5,3 +5,4 @@ Innovation distinguishes between a leader and a follower. DevOps Backend Event S
 Machine Learning Version Control OAuth Dream big and dare to fail. Success is not in what you have, but who you are. If you can dream it, you can do it. Code Review Framework Automation Great things never come from comfort zones. Kafka Container Orchestration Data Pipeline
 Deployment Server Response Load Balancing Happiness is not something ready made. It comes from your own actions. Kubernetes Zero Downtime Deployment Message Queue Microservices Work hard in silence, let your success be your noise. Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Cloud Functions
 Automation Cloud Success is how high you bounce when you hit bottom. Scalability Server Response Containerization
+Security Innovation distinguishes between a leader and a follower. Neural Networks Artificial Intelligence Content Delivery Network Cloud IoT
