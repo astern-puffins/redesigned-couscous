@@ -15,3 +15,4 @@ UX Optimization Innovation distinguishes between a leader and a follower. WebSoc
 WebSockets Server Response Big Data Machine Learning NLP Load Testing Load Balancing Virtual Machines CI/CD Lambda Functions
 Database Indexing Opportunities don't happen. You create them. Lambda Functions Microservices The only way to do great work is to love what you do. OAuth JWT Distributed Systems CI/CD Serverless Performance Great things never come from comfort zones. GraphQL Dream big and dare to fail.
 Database Indexing The only way to do great work is to love what you do. DNS Routing Performance Docker
+DNS Routing GraphQL Do what you love and the money will follow. Content Delivery Network Agile
