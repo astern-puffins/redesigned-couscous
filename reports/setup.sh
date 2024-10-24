@@ -14,3 +14,4 @@ React Security Frontend Machine Learning WebSockets If you can dream it, you can
 UX Optimization Innovation distinguishes between a leader and a follower. WebSockets Frontend JavaScript Great things never come from comfort zones. Logging Stay hungry, stay foolish. Load Balancing Container Orchestration
 WebSockets Server Response Big Data Machine Learning NLP Load Testing Load Balancing Virtual Machines CI/CD Lambda Functions
 Database Indexing Opportunities don't happen. You create them. Lambda Functions Microservices The only way to do great work is to love what you do. OAuth JWT Distributed Systems CI/CD Serverless Performance Great things never come from comfort zones. GraphQL Dream big and dare to fail.
+Database Indexing The only way to do great work is to love what you do. DNS Routing Performance Docker
