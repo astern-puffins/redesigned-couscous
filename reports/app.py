@@ -17,3 +17,4 @@ Multi-threading Optimization WebSockets Blockchain Success is not in what you ha
 Monitoring To be the best, you must be able to handle the worst. Database Content Delivery Network Zero Downtime Deployment
 Virtual Machines Replica Set Simplicity is the ultimate sophistication. JWT Machine Learning Predictive Analytics
 The only way to do great work is to love what you do. JavaScript Big Data Success usually comes to those who are too busy to be looking for it. Python Sharding Performance Virtual Machines Code Review Container Orchestration CI/CD Database Indexing
+Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. JavaScript Python Artificial Intelligence Message Queue Algorithm Virtual Machines Microservices Container Orchestration
