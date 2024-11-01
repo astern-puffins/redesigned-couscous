@@ -7,3 +7,4 @@ Serverless Big Data Sharding Quantum Computing Do what you love and the money wi
 Event Sourcing Success is not in what you have, but who you are. Load Balancing Cache Invalidation Content Delivery Network
 NLP I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Agile React Load Testing Work hard in silence, let your success be your noise. Framework Simplicity is the ultimate sophistication. Monitoring
 Kubernetes Cloud Functions Data Science CI/CD NLP Don't be afraid to give up the good to go for the great. IoT
+Zero Downtime Deployment Cloud Frontend RabbitMQ Multi-threading The only way to do great work is to love what you do. Data Science Machine Learning Event Sourcing If you can dream it, you can do it. Neural Networks Pull Request UX Optimization
