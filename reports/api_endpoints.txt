@@ -17,3 +17,4 @@ The only way to do great work is to love what you do. Kubernetes Cloud Testing L
 Cloud JavaScript Work hard in silence, let your success be your noise. Edge Computing NLP Great things never come from comfort zones.
 JavaScript Zero Downtime Deployment Lambda Functions Predictive Analytics A/B Testing Event Sourcing Performance
 Automation Performance Backend Zero Downtime Deployment Success is not in what you have, but who you are. Data Science Work hard in silence, let your success be your noise. Cloud JWT
+Cloud A/B Testing Difficult roads often lead to beautiful destinations. Quantum Computing Testing Database NLP Content Delivery Network Artificial Intelligence Success is not in what you have, but who you are. Version Control
