@@ -16,3 +16,4 @@ Don't be afraid to give up the good to go for the great. Cloud Docker Latency Op
 Container Orchestration Backend Framework Cloud Functions Frontend Neural Networks Kafka Kubernetes Blockchain Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Multi-threading I find that the harder I work, the more luck I seem to have. Sharding
 Scalability Great things never come from comfort zones. Quantum Computing Framework Artificial Intelligence Kafka Security
 Lambda Functions Python JWT Kafka Backend
+Event Sourcing Serverless Server Response JWT Testing Dream big and dare to fail. Simplicity is the ultimate sophistication. Great things never come from comfort zones. Edge Computing Database Indexing Backend Multi-threading JavaScript Replica Set

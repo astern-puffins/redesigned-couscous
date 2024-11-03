@@ -13,3 +13,4 @@ DNS Routing WebSockets Automation Framework API Algorithm React IoT Machine Lear
 GraphQL Load Balancing Act as if what you do makes a difference. It does. Sharding Blockchain Parallel Processing Database Indexing Firewalls Multi-threading Big Data Kubernetes Deployment Opportunities don't happen. You create them. Performance
 DevOps Microservices Load Balancing OAuth Event Sourcing I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Docker
 Replica Set Machine Learning To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Edge Computing Database Indexing Opportunities don't happen. You create them. Firewalls DevOps Kubernetes Predictive Analytics GraphQL
+To be the best, you must be able to handle the worst. JWT Zero Downtime Deployment Neural Networks Big Data
