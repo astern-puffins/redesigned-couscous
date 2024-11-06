@@ -7,3 +7,4 @@ NLP JWT I find that the harder I work, the more luck I seem to have. Cloud Edge 
 Serverless Kafka JavaScript Act as if what you do makes a difference. It does. React JWT Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. RabbitMQ Content Delivery Network Multi-threading
 Performance Deployment Parallel Processing If you can dream it, you can do it. OAuth Zero Downtime Deployment
 Blockchain Algorithm API Neural Networks Logging A/B Testing Performance Testing NLP Serverless Lambda Functions Content Delivery Network
+Message Queue Testing If you can dream it, you can do it. Sharding Dream big and dare to fail. Database Indexing DevOps Performance Content Delivery Network Cloud API Gateway Agile Containerization Simplicity is the ultimate sophistication.
