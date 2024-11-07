@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. Containeri
 Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Event Sourcing Lambda Functions Monitoring Deployment
 DNS Routing WebSockets Automation Framework API Algorithm React IoT Machine Learning CI/CD Containerization Multi-threading Predictive Analytics Success doesn’t just find you. You have to go out and get it. DevOps
 GraphQL Load Balancing Act as if what you do makes a difference. It does. Sharding Blockchain Parallel Processing Database Indexing Firewalls Multi-threading Big Data Kubernetes Deployment Opportunities don't happen. You create them. Performance
+DevOps Microservices Load Balancing OAuth Event Sourcing I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Docker
