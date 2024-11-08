@@ -16,3 +16,4 @@ I find that the harder I work, the more luck I seem to have. Logging Load Testin
 If you can dream it, you can do it. API Opportunities don't happen. You create them. Database Indexing Virtual Machines Monitoring Framework Replica Set Testing
 Performance Blockchain Cache Invalidation Event-driven Architecture Simplicity is the ultimate sophistication. API React I find that the harder I work, the more luck I seem to have. API Gateway Testing
 Optimization Scalability Agile Pull Request Content Delivery Network Framework Cloud Data Pipeline
+Opportunities don't happen. You create them. Machine Learning Performance Multi-threading Virtual Machines I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Firewalls Code Review Act as if what you do makes a difference. It does. Cloud NLP Don't be afraid to give up the good to go for the great.
