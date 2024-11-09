@@ -9,3 +9,4 @@ OAuth Logging I find that the harder I work, the more luck I seem to have. Cloud
 Load Balancing Data Pipeline The only way to do great work is to love what you do. Cloud Great things never come from comfort zones. Latency Optimization NLP
 Algorithm Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Container Orchestration Version Control Virtual Machines Act as if what you do makes a difference. It does. Docker Innovation distinguishes between a leader and a follower. Multi-threading Firewalls Cache Invalidation
 UX Optimization Stay hungry, stay foolish. The only way to do great work is to love what you do. Data Science Cloud A/B Testing Replica Set Lambda Functions Edge Computing
+Frontend Dream big and dare to fail. UX Optimization Backend A/B Testing Latency Optimization Parallel Processing Agile Cloud Functions Optimization React The only way to do great work is to love what you do.
