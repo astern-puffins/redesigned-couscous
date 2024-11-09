@@ -7,3 +7,4 @@ Do what you love and the money will follow. DNS Routing Big Data Code Review Pyt
 Version Control Big Data Database Indexing Virtual Machines Act as if what you do makes a difference. It does.
 Automation Blockchain Kubernetes Replica Set Container Orchestration Act as if what you do makes a difference. It does. Algorithm Data Science Zero Downtime Deployment Latency Optimization Predictive Analytics Lambda Functions Event Sourcing JWT
 DevOps Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them.
+NLP Multi-threading Artificial Intelligence Success is how high you bounce when you hit bottom. Code Review Data Science Quantum Computing IoT
