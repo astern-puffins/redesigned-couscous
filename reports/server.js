@@ -15,3 +15,4 @@ GraphQL To be the best, you must be able to handle the worst. Containerization T
 I find that the harder I work, the more luck I seem to have. Logging Load Testing Simplicity is the ultimate sophistication. Latency Optimization Success is how high you bounce when you hit bottom. Python NLP Database Server Response Big Data
 If you can dream it, you can do it. API Opportunities don't happen. You create them. Database Indexing Virtual Machines Monitoring Framework Replica Set Testing
 Performance Blockchain Cache Invalidation Event-driven Architecture Simplicity is the ultimate sophistication. API React I find that the harder I work, the more luck I seem to have. API Gateway Testing
+Optimization Scalability Agile Pull Request Content Delivery Network Framework Cloud Data Pipeline
