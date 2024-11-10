@@ -15,3 +15,4 @@ Data Pipeline Quantum Computing Containerization Automation Opportunities don't 
 Don't be afraid to give up the good to go for the great. Cloud Docker Latency Optimization API Gateway Event Sourcing If you can dream it, you can do it. Do what you love and the money will follow. Optimization Automation The only way to do great work is to love what you do.
 Container Orchestration Backend Framework Cloud Functions Frontend Neural Networks Kafka Kubernetes Blockchain Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Multi-threading I find that the harder I work, the more luck I seem to have. Sharding
 Scalability Great things never come from comfort zones. Quantum Computing Framework Artificial Intelligence Kafka Security
+Lambda Functions Python JWT Kafka Backend

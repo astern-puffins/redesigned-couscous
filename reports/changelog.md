@@ -9,3 +9,4 @@ Load Testing JavaScript Predictive Analytics Success doesn’t just find you. You 
 Microservices Multi-threading JWT Predictive Analytics Dream big and dare to fail. Cache Invalidation OAuth DevOps Containerization Blockchain NLP Framework Do what you love and the money will follow. Data Pipeline
 Success usually comes to those who are too busy to be looking for it. Containerization Quantum Computing JavaScript Version Control
 Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Event Sourcing Lambda Functions Monitoring Deployment
+DNS Routing WebSockets Automation Framework API Algorithm React IoT Machine Learning CI/CD Containerization Multi-threading Predictive Analytics Success doesn’t just find you. You have to go out and get it. DevOps
