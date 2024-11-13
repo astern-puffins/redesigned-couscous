@@ -7,3 +7,4 @@ RabbitMQ Latency Optimization Algorithm Act as if what you do makes a difference
 Load Balancing Containerization Do what you love and the money will follow. Blockchain NLP Act as if what you do makes a difference. It does. Lambda Functions
 Zero Downtime Deployment Parallel Processing Monitoring Data Science Framework Blockchain Do what you love and the money will follow. Logging Database Indexing Database To be the best, you must be able to handle the worst.
 Serverless Monitoring Work hard in silence, let your success be your noise. Backend GraphQL Framework Virtual Machines Database Distributed Systems OAuth Algorithm Docker
+Cloud Success usually comes to those who are too busy to be looking for it. Firewalls Kubernetes Containerization Virtual Machines Load Testing Multi-threading Deployment Data Pipeline Cache Invalidation Testing Scalability
