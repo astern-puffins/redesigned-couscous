@@ -15,3 +15,4 @@ I find that the harder I work, the more luck I seem to have. API Gateway Python 
 Firewalls Machine Learning Kubernetes Success usually comes to those who are too busy to be looking for it. GraphQL Deployment Monitoring Optimization IoT
 Multi-threading Optimization WebSockets Blockchain Success is not in what you have, but who you are. Pull Request Load Testing JavaScript
 Monitoring To be the best, you must be able to handle the worst. Database Content Delivery Network Zero Downtime Deployment
+Virtual Machines Replica Set Simplicity is the ultimate sophistication. JWT Machine Learning Predictive Analytics
