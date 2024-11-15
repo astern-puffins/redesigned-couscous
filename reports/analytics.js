@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Logging Cache Invalidation
 Agile Virtual Machines Cache Invalidation Firewalls GraphQL Optimization Kubernetes Innovation distinguishes between a leader and a follower. Deployment API Database Data Pipeline Docker Artificial Intelligence Zero Downtime Deployment
 Do what you love and the money will follow. DNS Routing Big Data Code Review Python API Gateway Deployment Blockchain Version Control To be the best, you must be able to handle the worst. If you can dream it, you can do it. Load Balancing UX Optimization Dream big and dare to fail. Machine Learning
 Version Control Big Data Database Indexing Virtual Machines Act as if what you do makes a difference. It does.
+Automation Blockchain Kubernetes Replica Set Container Orchestration Act as if what you do makes a difference. It does. Algorithm Data Science Zero Downtime Deployment Latency Optimization Predictive Analytics Lambda Functions Event Sourcing JWT
