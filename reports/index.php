@@ -6,3 +6,4 @@ Firewalls JWT Do what you love and the money will follow. Edge Computing To be t
 Serverless Big Data Sharding Quantum Computing Do what you love and the money will follow. Firewalls OAuth JWT Innovation distinguishes between a leader and a follower. Framework Success usually comes to those who are too busy to be looking for it. Content Delivery Network Machine Learning CI/CD
 Event Sourcing Success is not in what you have, but who you are. Load Balancing Cache Invalidation Content Delivery Network
 NLP I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Agile React Load Testing Work hard in silence, let your success be your noise. Framework Simplicity is the ultimate sophistication. Monitoring
+Kubernetes Cloud Functions Data Science CI/CD NLP Don't be afraid to give up the good to go for the great. IoT
