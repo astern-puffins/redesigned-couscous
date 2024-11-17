@@ -16,3 +16,4 @@ Framework Sharding Microservices Happiness is not something ready made. It comes
 The only way to do great work is to love what you do. Kubernetes Cloud Testing Latency Optimization To be the best, you must be able to handle the worst. Automation Success doesn’t just find you. You have to go out and get it. Message Queue Python Sharding Docker
 Cloud JavaScript Work hard in silence, let your success be your noise. Edge Computing NLP Great things never come from comfort zones.
 JavaScript Zero Downtime Deployment Lambda Functions Predictive Analytics A/B Testing Event Sourcing Performance
+Automation Performance Backend Zero Downtime Deployment Success is not in what you have, but who you are. Data Science Work hard in silence, let your success be your noise. Cloud JWT
