@@ -7,3 +7,4 @@ Automation Success is how high you bounce when you hit bottom. Kafka UX Optimiza
 Microservices Logging Automation Great things never come from comfort zones. Load Balancing NLP The only way to do great work is to love what you do. Docker Cache Invalidation API Gateway
 Success is not in what you have, but who you are. NLP Optimization Stay hungry, stay foolish. Load Testing Kafka
 Code Review Monitoring Framework Success is not in what you have, but who you are. UX Optimization Great things never come from comfort zones. Sharding Edge Computing Neural Networks GraphQL Python OAuth
+Kafka Cloud Functions Success doesn’t just find you. You have to go out and get it. Backend Edge Computing Kubernetes Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. JWT Database Data Pipeline Monitoring
