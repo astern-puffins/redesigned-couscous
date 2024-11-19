@@ -12,3 +12,4 @@ Kafka Blockchain Performance Simplicity is the ultimate sophistication. Do what 
 JavaScript Act as if what you do makes a difference. It does. Sharding CI/CD Firewalls Testing Algorithm Optimization Containerization
 NLP RabbitMQ Load Balancing IoT Predictive Analytics Multi-threading Firewalls Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Cloud Functions Edge Computing React Scalability
 JWT WebSockets RabbitMQ Docker Backend Code Review Event Sourcing Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Database Blockchain Kubernetes
+API Container Orchestration Difficult roads often lead to beautiful destinations. UX Optimization Frontend Scalability Content Delivery Network Database Indexing Stay hungry, stay foolish. Quantum Computing
