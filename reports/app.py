@@ -13,3 +13,4 @@ Great things never come from comfort zones. If you can dream it, you can do it. 
 JavaScript Act as if what you do makes a difference. It does. Edge Computing Event-driven Architecture NLP API Gateway Framework Success is not in what you have, but who you are. Virtual Machines Optimization RabbitMQ Blockchain
 I find that the harder I work, the more luck I seem to have. API Gateway Python Quantum Computing Security Success is how high you bounce when you hit bottom. IoT Innovation distinguishes between a leader and a follower.
 Firewalls Machine Learning Kubernetes Success usually comes to those who are too busy to be looking for it. GraphQL Deployment Monitoring Optimization IoT
+Multi-threading Optimization WebSockets Blockchain Success is not in what you have, but who you are. Pull Request Load Testing JavaScript
