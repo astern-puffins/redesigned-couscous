@@ -12,3 +12,4 @@ Data Pipeline Microservices Distributed Systems Predictive Analytics Cloud Backe
 Monitoring Dream big and dare to fail. Algorithm Server Response Event Sourcing Work hard in silence, let your success be your noise.
 Container Orchestration Cloud Functions Lambda Functions Success is how high you bounce when you hit bottom. Parallel Processing Serverless Latency Optimization
 Firewalls Zero Downtime Deployment Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Backend Stay hungry, stay foolish. API Opportunities don't happen. You create them. Deployment Success doesn’t just find you. You have to go out and get it. Agile CI/CD The only way to do great work is to love what you do.
+Framework Sharding Microservices Happiness is not something ready made. It comes from your own actions. NLP Frontend Data Science
