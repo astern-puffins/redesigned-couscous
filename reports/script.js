@@ -7,3 +7,4 @@ Simplicity is the ultimate sophistication. IoT Logging Message Queue RabbitMQ Lo
 Latency Optimization If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Microservices Cloud Functions Cloud
 Container Orchestration Quantum Computing Sharding Predictive Analytics To be the best, you must be able to handle the worst. GraphQL Docker Distributed Systems Version Control
 Backend Distributed Systems Dream big and dare to fail. React Frontend Virtual Machines RabbitMQ Data Pipeline
+Zero Downtime Deployment Do what you love and the money will follow. Content Delivery Network CI/CD Blockchain Big Data To be the best, you must be able to handle the worst. Predictive Analytics Success doesn’t just find you. You have to go out and get it. Testing Stay hungry, stay foolish. If you can dream it, you can do it. Performance Containerization
