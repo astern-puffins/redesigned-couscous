@@ -4,3 +4,4 @@ Server Response Cloud DNS Routing Event-driven Architecture Load Balancing Block
 Backend Python Performance Success is how high you bounce when you hit bottom. Agile Monitoring Container Orchestration Dream big and dare to fail. Replica Set Data Pipeline Automation Database Indexing
 Firewalls JWT Do what you love and the money will follow. Edge Computing To be the best, you must be able to handle the worst. Quantum Computing A/B Testing Database Indexing Cloud Functions Monitoring Predictive Analytics Replica Set Framework Version Control Serverless
 Serverless Big Data Sharding Quantum Computing Do what you love and the money will follow. Firewalls OAuth JWT Innovation distinguishes between a leader and a follower. Framework Success usually comes to those who are too busy to be looking for it. Content Delivery Network Machine Learning CI/CD
+Event Sourcing Success is not in what you have, but who you are. Load Balancing Cache Invalidation Content Delivery Network
