@@ -11,3 +11,4 @@ Containerization Logging Latency Optimization Dream big and dare to fail. JavaSc
 API Gateway Difficult roads often lead to beautiful destinations. OAuth Python JavaScript Success is how high you bounce when you hit bottom. If you can dream it, you can do it.
 Firewalls Cache Invalidation Serverless JavaScript Simplicity is the ultimate sophistication. Distributed Systems IoT Blockchain Security Automation
 Algorithm Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Performance To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Server Response Event Sourcing Kafka Monitoring Cloud Container Orchestration Act as if what you do makes a difference. It does. Parallel Processing
+Data Pipeline Quantum Computing Containerization Automation Opportunities don't happen. You create them.
