@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. Success doesn’t just f
 Opportunities don't happen. You create them. Parallel Processing Cloud Functions React Scalability I find that the harder I work, the more luck I seem to have. Event Sourcing Optimization
 DevOps JavaScript Cloud Functions Containerization Scalability Sharding Testing
 Machine Learning Load Balancing API A/B Testing Difficult roads often lead to beautiful destinations. Neural Networks RabbitMQ Security Quantum Computing CI/CD Success usually comes to those who are too busy to be looking for it.
+JavaScript Python Replica Set NLP Version Control Lambda Functions DevOps IoT
