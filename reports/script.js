@@ -6,3 +6,4 @@ UX Optimization Parallel Processing Big Data Multi-threading Simplicity is the u
 Simplicity is the ultimate sophistication. IoT Logging Message Queue RabbitMQ Load Testing NLP Content Delivery Network Virtual Machines
 Latency Optimization If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Microservices Cloud Functions Cloud
 Container Orchestration Quantum Computing Sharding Predictive Analytics To be the best, you must be able to handle the worst. GraphQL Docker Distributed Systems Version Control
+Backend Distributed Systems Dream big and dare to fail. React Frontend Virtual Machines RabbitMQ Data Pipeline

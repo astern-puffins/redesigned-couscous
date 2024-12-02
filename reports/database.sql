@@ -9,3 +9,4 @@ Database Indexing WebSockets Cloud Functions Sharding Artificial Intelligence Te
 Cloud Performance Microservices GraphQL Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Content Delivery Network Kafka DNS Routing
 Containerization Logging Latency Optimization Dream big and dare to fail. JavaScript API Data Pipeline UX Optimization Algorithm Testing Innovation distinguishes between a leader and a follower. Artificial Intelligence Scalability WebSockets Lambda Functions
 API Gateway Difficult roads often lead to beautiful destinations. OAuth Python JavaScript Success is how high you bounce when you hit bottom. If you can dream it, you can do it.
+Firewalls Cache Invalidation Serverless JavaScript Simplicity is the ultimate sophistication. Distributed Systems IoT Blockchain Security Automation
