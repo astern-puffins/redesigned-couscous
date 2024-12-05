@@ -11,3 +11,4 @@ The only way to do great work is to love what you do. Happiness is not something
 Monitoring Latency Optimization Automation Cloud Simplicity is the ultimate sophistication.
 Great things never come from comfort zones. If you can dream it, you can do it. Blockchain Database Indexing Do what you love and the money will follow. IoT Pull Request Sharding
 JavaScript Act as if what you do makes a difference. It does. Edge Computing Event-driven Architecture NLP API Gateway Framework Success is not in what you have, but who you are. Virtual Machines Optimization RabbitMQ Blockchain
+I find that the harder I work, the more luck I seem to have. API Gateway Python Quantum Computing Security Success is how high you bounce when you hit bottom. IoT Innovation distinguishes between a leader and a follower.
