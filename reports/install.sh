@@ -4,3 +4,4 @@ Microservices To be the best, you must be able to handle the worst. Event-driven
 Optimization Success doesn’t just find you. You have to go out and get it. Cloud Functions WebSockets Database Kubernetes
 Dream big and dare to fail. Kubernetes Parallel Processing Work hard in silence, let your success be your noise. Serverless Artificial Intelligence API Gateway Optimization
 NLP JWT I find that the harder I work, the more luck I seem to have. Cloud Edge Computing Version Control Success usually comes to those who are too busy to be looking for it. Load Testing Don't be afraid to give up the good to go for the great. Performance Microservices Automation API Gateway
+Serverless Kafka JavaScript Act as if what you do makes a difference. It does. React JWT Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. RabbitMQ Content Delivery Network Multi-threading
