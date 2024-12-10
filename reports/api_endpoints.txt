@@ -9,3 +9,4 @@ If you can dream it, you can do it. React Machine Learning Artificial Intelligen
 Dream big and dare to fail. Kubernetes Lambda Functions Kafka Artificial Intelligence Container Orchestration Stay hungry, stay foolish.
 If you can dream it, you can do it. Parallel Processing Python Success is how high you bounce when you hit bottom. UX Optimization Cache Invalidation Frontend Optimization Difficult roads often lead to beautiful destinations.
 Data Pipeline Microservices Distributed Systems Predictive Analytics Cloud Backend Big Data Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Kubernetes Deployment Blockchain Load Testing CI/CD
+Monitoring Dream big and dare to fail. Algorithm Server Response Event Sourcing Work hard in silence, let your success be your noise.
