@@ -7,3 +7,4 @@ Innovation distinguishes between a leader and a follower. DevOps Opportunities d
 Monitoring Pull Request Success doesn’t just find you. You have to go out and get it. Scalability Security
 OAuth Logging I find that the harder I work, the more luck I seem to have. Cloud Machine Learning
 Load Balancing Data Pipeline The only way to do great work is to love what you do. Cloud Great things never come from comfort zones. Latency Optimization NLP
+Algorithm Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. Container Orchestration Version Control Virtual Machines Act as if what you do makes a difference. It does. Docker Innovation distinguishes between a leader and a follower. Multi-threading Firewalls Cache Invalidation
