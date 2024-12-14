@@ -6,3 +6,4 @@ Blockchain Machine Learning Don't be afraid to give up the good to go for the gr
 Automation Success is how high you bounce when you hit bottom. Kafka UX Optimization Virtual Machines Simplicity is the ultimate sophistication. Cloud Functions React Monitoring If you can dream it, you can do it. Load Balancing DNS Routing Message Queue Data Pipeline
 Microservices Logging Automation Great things never come from comfort zones. Load Balancing NLP The only way to do great work is to love what you do. Docker Cache Invalidation API Gateway
 Success is not in what you have, but who you are. NLP Optimization Stay hungry, stay foolish. Load Testing Kafka
+Code Review Monitoring Framework Success is not in what you have, but who you are. UX Optimization Great things never come from comfort zones. Sharding Edge Computing Neural Networks GraphQL Python OAuth
