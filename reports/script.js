@@ -5,3 +5,4 @@ Work hard in silence, let your success be your noise. Blockchain I find that the
 UX Optimization Parallel Processing Big Data Multi-threading Simplicity is the ultimate sophistication. Serverless Data Pipeline Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Scalability Microservices Containerization Artificial Intelligence Cache Invalidation
 Simplicity is the ultimate sophistication. IoT Logging Message Queue RabbitMQ Load Testing NLP Content Delivery Network Virtual Machines
 Latency Optimization If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Microservices Cloud Functions Cloud
+Container Orchestration Quantum Computing Sharding Predictive Analytics To be the best, you must be able to handle the worst. GraphQL Docker Distributed Systems Version Control
