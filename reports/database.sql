@@ -8,3 +8,4 @@ Database Indexing The only way to do great work is to love what you do. Server R
 Database Indexing WebSockets Cloud Functions Sharding Artificial Intelligence Testing Docker Zero Downtime Deployment JavaScript Microservices DevOps Automation Blockchain Machine Learning Innovation distinguishes between a leader and a follower.
 Cloud Performance Microservices GraphQL Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Content Delivery Network Kafka DNS Routing
 Containerization Logging Latency Optimization Dream big and dare to fail. JavaScript API Data Pipeline UX Optimization Algorithm Testing Innovation distinguishes between a leader and a follower. Artificial Intelligence Scalability WebSockets Lambda Functions
+API Gateway Difficult roads often lead to beautiful destinations. OAuth Python JavaScript Success is how high you bounce when you hit bottom. If you can dream it, you can do it.
