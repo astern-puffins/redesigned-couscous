@@ -4,3 +4,4 @@ If you can dream it, you can do it. Deployment Great things never come from comf
 NLP Frontend Difficult roads often lead to beautiful destinations. Replica Set Kubernetes Kafka To be the best, you must be able to handle the worst.
 Distributed Systems Data Science To be the best, you must be able to handle the worst. IoT Lambda Functions Blockchain Innovation distinguishes between a leader and a follower. Docker
 Sharding Parallel Processing Deployment Kafka Firewalls Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it.
+Zero Downtime Deployment Backend Version Control OAuth Scalability Artificial Intelligence Containerization Distributed Systems API API Gateway DevOps Performance Microservices Frontend
