@@ -4,3 +4,4 @@ Python Content Delivery Network The only way to do great work is to love what yo
 Logging Security Lambda Functions Agile JavaScript Server Response Kubernetes The only way to do great work is to love what you do.
 API DevOps Happiness is not something ready made. It comes from your own actions. Multi-threading UX Optimization Latency Optimization
 Event-driven Architecture Logging Big Data Microservices Content Delivery Network Database OAuth Quantum Computing Kafka
+Cloud API Gateway DNS Routing Event-driven Architecture Latency Optimization Sharding Zero Downtime Deployment WebSockets Cache Invalidation
