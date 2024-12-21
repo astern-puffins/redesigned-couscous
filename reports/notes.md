@@ -4,3 +4,4 @@ DevOps Don't be afraid to give up the good to go for the great. If you can dream
 Backend Database Indexing To be the best, you must be able to handle the worst. React Data Science Docker Kafka
 Blockchain Machine Learning Don't be afraid to give up the good to go for the great. Deployment Microservices Do what you love and the money will follow. Performance Database Indexing Docker DNS Routing Event-driven Architecture API Gateway Security Success doesn’t just find you. You have to go out and get it. Testing
 Automation Success is how high you bounce when you hit bottom. Kafka UX Optimization Virtual Machines Simplicity is the ultimate sophistication. Cloud Functions React Monitoring If you can dream it, you can do it. Load Balancing DNS Routing Message Queue Data Pipeline
+Microservices Logging Automation Great things never come from comfort zones. Load Balancing NLP The only way to do great work is to love what you do. Docker Cache Invalidation API Gateway
