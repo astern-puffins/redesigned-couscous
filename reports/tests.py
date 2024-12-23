@@ -8,3 +8,4 @@ Machine Learning Container Orchestration Docker Kubernetes Performance Success i
 A/B Testing React Success usually comes to those who are too busy to be looking for it. Lambda Functions Scalability
 Event Sourcing Sharding Artificial Intelligence Virtual Machines Opportunities don't happen. You create them. Parallel Processing Content Delivery Network API Machine Learning Cache Invalidation Containerization WebSockets JavaScript Pull Request
 Frontend Neural Networks Automation Dream big and dare to fail. Framework Blockchain Performance UX Optimization To be the best, you must be able to handle the worst.
+Kafka Blockchain Performance Simplicity is the ultimate sophistication. Do what you love and the money will follow. DNS Routing Backend Optimization Data Science Machine Learning Artificial Intelligence Python Success doesn’t just find you. You have to go out and get it. Container Orchestration Work hard in silence, let your success be your noise.
