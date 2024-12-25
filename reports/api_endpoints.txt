@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. Scalabili
 Quantum Computing API Gateway DevOps Artificial Intelligence Kafka Testing If you can dream it, you can do it. Event-driven Architecture Database Monitoring The only way to do great work is to love what you do. Load Testing
 Firewalls Kafka If you can dream it, you can do it. JWT React Latency Optimization Agile
 If you can dream it, you can do it. React Machine Learning Artificial Intelligence Python Version Control JavaScript Optimization Parallel Processing
+Dream big and dare to fail. Kubernetes Lambda Functions Kafka Artificial Intelligence Container Orchestration Stay hungry, stay foolish.

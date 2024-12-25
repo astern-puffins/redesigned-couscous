@@ -7,3 +7,4 @@ Serverless Multi-threading Predictive Analytics Kubernetes Data Science Firewall
 Quantum Computing Load Testing RabbitMQ Database JWT
 A/B Testing Python DNS Routing GraphQL WebSockets Event Sourcing Cloud
 DevOps JWT Multi-threading Success usually comes to those who are too busy to be looking for it. API Security
+JWT Database JavaScript Parallel Processing Do what you love and the money will follow. Success is how high you bounce when you hit bottom. DNS Routing Testing Firewalls Opportunities don't happen. You create them. Algorithm Sharding Server Response Predictive Analytics UX Optimization
