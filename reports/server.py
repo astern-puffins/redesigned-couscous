@@ -4,3 +4,4 @@ Version Control Machine Learning Opportunities don't happen. You create them. Pa
 API Load Balancing DevOps API Gateway To be the best, you must be able to handle the worst. Event Sourcing
 Deployment Python Parallel Processing Success is how high you bounce when you hit bottom. Multi-threading Security Great things never come from comfort zones.
 Cache Invalidation Quantum Computing Optimization Edge Computing Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. Container Orchestration React To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Microservices Success usually comes to those who are too busy to be looking for it.
+Pull Request Testing Load Balancing Code Review Predictive Analytics Frontend Message Queue
