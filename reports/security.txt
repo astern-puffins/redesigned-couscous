@@ -4,3 +4,4 @@ React API Opportunities don't happen. You create them. Distributed Systems Artif
 GraphQL Logging Success usually comes to those who are too busy to be looking for it. Database Sharding
 A/B Testing Database Indexing JWT Replica Set UX Optimization DevOps Agile WebSockets Testing
 Innovation distinguishes between a leader and a follower. DevOps Opportunities don't happen. You create them. Version Control Firewalls Success is not in what you have, but who you are. Server Response Replica Set Security JavaScript Load Balancing Cloud Virtual Machines Algorithm Success is how high you bounce when you hit bottom.
+Monitoring Pull Request Success doesn’t just find you. You have to go out and get it. Scalability Security

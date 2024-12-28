@@ -7,3 +7,4 @@ Latency Optimization Cloud To be the best, you must be able to handle the worst.
 Algorithm UX Optimization Do what you love and the money will follow. Success is not in what you have, but who you are. Load Testing
 Containerization Optimization A/B Testing API Docker Replica Set Kubernetes Edge Computing
 Agile Load Balancing Big Data Parallel Processing WebSockets Predictive Analytics Microservices Cache Invalidation
+The only way to do great work is to love what you do. Framework Stay hungry, stay foolish. Frontend Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. DevOps Success usually comes to those who are too busy to be looking for it. Python Data Science Multi-threading Don't be afraid to give up the good to go for the great. Parallel Processing Cloud Functions
