@@ -3,3 +3,4 @@ To be the best, you must be able to handle the worst. Do what you love and the m
 Container Orchestration Version Control If you can dream it, you can do it. Distributed Systems API OAuth Kafka Edge Computing Neural Networks Monitoring IoT
 Message Queue Kubernetes IoT Difficult roads often lead to beautiful destinations. Containerization Replica Set Multi-threading
 Happiness is not something ready made. It comes from your own actions. Scalability Agile Version Control Data Science Message Queue Algorithm Don't be afraid to give up the good to go for the great. Artificial Intelligence
+Quantum Computing API Gateway DevOps Artificial Intelligence Kafka Testing If you can dream it, you can do it. Event-driven Architecture Database Monitoring The only way to do great work is to love what you do. Load Testing
