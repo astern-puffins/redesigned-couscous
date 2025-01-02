@@ -3,3 +3,4 @@ Simplicity is the ultimate sophistication. OAuth Performance Success is how high
 If you can dream it, you can do it. Deployment Great things never come from comfort zones. Security Message Queue Cloud Functions Load Testing Container Orchestration A/B Testing Quantum Computing To be the best, you must be able to handle the worst. Backend Cache Invalidation API Gateway
 NLP Frontend Difficult roads often lead to beautiful destinations. Replica Set Kubernetes Kafka To be the best, you must be able to handle the worst.
 Distributed Systems Data Science To be the best, you must be able to handle the worst. IoT Lambda Functions Blockchain Innovation distinguishes between a leader and a follower. Docker
+Sharding Parallel Processing Deployment Kafka Firewalls Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it.
