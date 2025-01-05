@@ -2,3 +2,4 @@ Event-driven Architecture Act as if what you do makes a difference. It does. Alg
 Data Science Server Response JWT Cloud Functions Neural Networks
 Success is how high you bounce when you hit bottom. Backend Data Science A/B Testing Serverless Logging Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. API Gateway Big Data
 Cloud Automation DNS Routing Replica Set Content Delivery Network JavaScript Predictive Analytics If you can dream it, you can do it. Kafka Containerization
+Big Data Security GraphQL Server Response Database Database Indexing Lambda Functions A/B Testing React Edge Computing Testing
