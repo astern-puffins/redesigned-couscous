@@ -6,3 +6,4 @@ API Gateway Algorithm The only way to do great work is to love what you do. Grea
 Latency Optimization Cloud To be the best, you must be able to handle the worst. API Success is how high you bounce when you hit bottom. Security Version Control Automation
 Algorithm UX Optimization Do what you love and the money will follow. Success is not in what you have, but who you are. Load Testing
 Containerization Optimization A/B Testing API Docker Replica Set Kubernetes Edge Computing
+Agile Load Balancing Big Data Parallel Processing WebSockets Predictive Analytics Microservices Cache Invalidation
