@@ -6,3 +6,4 @@ NLP Load Balancing Backend Cloud Functions Microservices Docker Framework
 Sharding GraphQL Machine Learning Quantum Computing Version Control Content Delivery Network The only way to do great work is to love what you do. Opportunities don't happen. You create them.
 Machine Learning Container Orchestration Docker Kubernetes Performance Success is how high you bounce when you hit bottom. Big Data Scalability Virtual Machines
 A/B Testing React Success usually comes to those who are too busy to be looking for it. Lambda Functions Scalability
+Event Sourcing Sharding Artificial Intelligence Virtual Machines Opportunities don't happen. You create them. Parallel Processing Content Delivery Network API Machine Learning Cache Invalidation Containerization WebSockets JavaScript Pull Request
