@@ -4,3 +4,4 @@ The only way to do great work is to love what you do. Database Indexing Code Rev
 Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. To be the best, you must be able to handle the worst. Cache Invalidation UX Optimization Deployment Docker Success is how high you bounce when you hit bottom. Scalability JavaScript Cloud Firewalls Event-driven Architecture Big Data
 NLP Load Balancing Backend Cloud Functions Microservices Docker Framework
 Sharding GraphQL Machine Learning Quantum Computing Version Control Content Delivery Network The only way to do great work is to love what you do. Opportunities don't happen. You create them.
+Machine Learning Container Orchestration Docker Kubernetes Performance Success is how high you bounce when you hit bottom. Big Data Scalability Virtual Machines
