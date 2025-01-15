@@ -1,2 +1,3 @@
 Event-driven Architecture Act as if what you do makes a difference. It does. Algorithm Containerization Agile Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Event Sourcing
 Data Science Server Response JWT Cloud Functions Neural Networks
+Success is how high you bounce when you hit bottom. Backend Data Science A/B Testing Serverless Logging Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. API Gateway Big Data
