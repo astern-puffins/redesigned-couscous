@@ -3,3 +3,4 @@ IoT Version Control Artificial Intelligence Success doesn’t just find you. You h
 OAuth Machine Learning Framework Distributed Systems DevOps Optimization Security Algorithm
 Database Success usually comes to those who are too busy to be looking for it. Kubernetes Simplicity is the ultimate sophistication. Cloud Functions Latency Optimization Backend I find that the harder I work, the more luck I seem to have. Deployment Content Delivery Network WebSockets UX Optimization Kafka Zero Downtime Deployment Load Balancing
 IoT Don't be afraid to give up the good to go for the great. JavaScript React Event Sourcing
+Serverless Multi-threading Predictive Analytics Kubernetes Data Science Firewalls Content Delivery Network Algorithm Big Data Agile
