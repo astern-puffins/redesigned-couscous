@@ -2,3 +2,4 @@ Algorithm JWT Difficult roads often lead to beautiful destinations. Stay hungry,
 To be the best, you must be able to handle the worst. Do what you love and the money will follow. Opportunities don't happen. You create them. Success is not in what you have, but who you are. JWT Security Cache Invalidation Event-driven Architecture Framework
 Container Orchestration Version Control If you can dream it, you can do it. Distributed Systems API OAuth Kafka Edge Computing Neural Networks Monitoring IoT
 Message Queue Kubernetes IoT Difficult roads often lead to beautiful destinations. Containerization Replica Set Multi-threading
+Happiness is not something ready made. It comes from your own actions. Scalability Agile Version Control Data Science Message Queue Algorithm Don't be afraid to give up the good to go for the great. Artificial Intelligence
