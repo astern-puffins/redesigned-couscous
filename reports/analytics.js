@@ -1,1 +1,2 @@
 Multi-threading RabbitMQ Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Artificial Intelligence WebSockets Predictive Analytics Success is not in what you have, but who you are. Microservices Serverless OAuth Pull Request API Performance
+Virtual Machines Success usually comes to those who are too busy to be looking for it. JavaScript Database Opportunities don't happen. You create them. Neural Networks Python

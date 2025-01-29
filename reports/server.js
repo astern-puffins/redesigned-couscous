@@ -1,2 +1,3 @@
 Work hard in silence, let your success be your noise. Load Testing Content Delivery Network Framework Do what you love and the money will follow. WebSockets Opportunities don't happen. You create them. Agile Sharding DNS Routing Container Orchestration API A/B Testing Cloud Functions
 Distributed Systems Load Testing Cloud Functions JWT CI/CD Database Indexing Work hard in silence, let your success be your noise. Containerization Python Automation DevOps Data Science
+Innovation distinguishes between a leader and a follower. Pull Request Event Sourcing GraphQL Framework Act as if what you do makes a difference. It does. UX Optimization Testing Predictive Analytics Docker If you can dream it, you can do it. Event-driven Architecture DevOps Security Database Indexing
