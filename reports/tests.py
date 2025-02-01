@@ -1,2 +1,3 @@
 Difficult roads often lead to beautiful destinations. Quantum Computing Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Automation RabbitMQ Great things never come from comfort zones.
 Scalability Virtual Machines Cloud Functions Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Parallel Processing Replica Set Load Balancing
+The only way to do great work is to love what you do. Database Indexing Code Review Containerization Version Control Success is how high you bounce when you hit bottom.

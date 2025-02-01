@@ -1,1 +1,2 @@
 Work hard in silence, let your success be your noise. Load Testing Content Delivery Network Framework Do what you love and the money will follow. WebSockets Opportunities don't happen. You create them. Agile Sharding DNS Routing Container Orchestration API A/B Testing Cloud Functions
+Distributed Systems Load Testing Cloud Functions JWT CI/CD Database Indexing Work hard in silence, let your success be your noise. Containerization Python Automation DevOps Data Science
